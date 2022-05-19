@@ -1,4 +1,3 @@
-# homework2
-Repository for homework (class and functions)
+# Homework2: Loops, Functions, and Classes
 
-This is where I will store my hw2 file for 9/28
+Repo contains the Jupyter notebook for homework #2 questions and answers. All questions pertained to basic loops, functions, and an introduction to object-oriented programming. 
